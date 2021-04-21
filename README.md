@@ -1,4 +1,4 @@
-# triviaApp
+# Trivia App
 
 Trivia question game from the open trivia api.
 
